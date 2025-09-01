@@ -26,3 +26,5 @@ pyinstaller --onefile --collect-all tkinter --collect-all tcl -w RivAssist.py �
 注意事项
 API 密钥需妥善保管，避免泄露
 操作系统文件时，确保有对应文件夹的读写权限
+项目实例：
+![运行截图](images/运行截图.png)
