@@ -7,7 +7,7 @@ commands. From deleting empty folders, renaming files, and resizing images to or
 1. 安装 Python
 要求：Python 3.8+（推荐 3.10）
 操作：从 Python 官网 下载对应系统版本，安装时勾选「Add Python to PATH」
-验证：终端输入 python --version 或 python3 --version，显示版本号即成功
+代码初次使用会执行一次运行环境检查。
 2. 设置大语言模型 API
 准备：获取大语言模型 API 密钥（如 OpenAI、阿里云通义千问等平台的 API Key）
 配置：打开项目设置 API 密钥 URL等，保存文件
