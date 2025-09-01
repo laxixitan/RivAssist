@@ -18,9 +18,13 @@ pyinstaller --onefile --collect-all tkinter --collect-all tcl -w RivAssist.py �
 
 4.发送指令操作电脑
 使用：在输入框发送自然语言指令（示例）：
+
 批量删除「D:/ 文档」下的空文件夹
+
 批量将「E:/ 图片」的所有图片修改为 800x600 尺寸
+
 按格式整理「F:/ 下载」的文件（文档放 Docs 文件夹，视频放 Videos 文件夹）
+
 执行：点击「生成并运行」，工具会自动生成代码并完成操作
 
 注意事项
