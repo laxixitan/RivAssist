@@ -5,7 +5,6 @@ commands. From deleting empty folders, renaming files, and resizing images to or
 
 小川助手 使用教程
 1. 安装 Python
-要求：Python 3.8+（推荐 3.10）
 操作：从 Python 官网 下载对应系统版本，安装时勾选「Add Python to PATH」
 代码初次使用会执行一次运行环境检查。
 2. 设置大语言模型 API
