@@ -12,6 +12,7 @@ commands. From deleting empty folders, renaming files, and resizing images to or
 准备：获取大语言模型 API 密钥（如 OpenAI、阿里云通义千问等平台的 API Key）
 配置：打开项目设置 API 密钥 URL等，保存文件
 3. 发送指令操作电脑
+pyinstaller --onefile --collect-all tkinter --collect-all tcl -w RivAssist.py 打包文件
 使用：在输入框发送自然语言指令（示例）：
 批量删除「D:/ 文档」下的空文件夹
 批量将「E:/ 图片」的所有图片修改为 800x600 尺寸
